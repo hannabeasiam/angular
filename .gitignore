@@ -4,6 +4,7 @@
 /dist
 /tmp
 /out-tsc
+*spec.ts
 
 # dependencies
 /node_modules
@@ -36,7 +37,7 @@ testem.log
 # e2e
 /e2e/*.js
 /e2e/*.map
-/e22/*spec.ts
+/e2e/*spec.ts
 
 # System Files
 .DS_Store
