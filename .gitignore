@@ -36,7 +36,13 @@ testem.log
 # e2e
 /e2e/*.js
 /e2e/*.map
+/e22/*spec.ts
 
 # System Files
 .DS_Store
 Thumbs.db
+
+#src files
+/src/*spec.ts
+/src/*.json
+/src/app/*spec.ts
